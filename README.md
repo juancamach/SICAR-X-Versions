@@ -1,6 +1,15 @@
 
 # SICAR X Android Versions
 
+## 0.0.4 (version code 20) - Release 13 mar 16:07
+
+- Ventas - Poner cantidades escritas
+- Ventas - Corrección de serie seleccionada
+- Ventas - Diálogos de básculas y cantidades
+- Configuraciones - Corrección de series
+- Configuraciones perfiles de impresión
+- Mejoras a ajustes de inventarios
+
 
 ## 0.0.3 (version code 17) - Release 6 mar 17:40
 
