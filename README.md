@@ -1,6 +1,10 @@
 
 # SICAR X Android Versions
 
+## 0.0.5 (version code ?) - Release In progress
+
+- Correos - permiso para adjuntar archivos
+
 ## 0.0.4 (version code 20) - Release 13 mar 16:07
 
 - Ventas - Poner cantidades escritas
