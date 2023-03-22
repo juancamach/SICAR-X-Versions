@@ -1,9 +1,14 @@
 
 # SICAR X Android Versions
 
-## 0.0.5 (version code ?) - Release In progress
-
+## 0.0.5 (version code 21) - Release 22 mar 13:23
+- Modo oscuro algunas mejoras
 - Correos - permiso para adjuntar archivos
+- Correos - permisos de usuario para enviar correos
+- Login - Mejoras
+- Ventas - Búsquedas y filtros
+- Ventas - Se agregan favoritos al catálogo
+
 
 ## 0.0.4 (version code 20) - Release 13 mar 16:07
 
