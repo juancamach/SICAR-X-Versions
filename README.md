@@ -1,5 +1,10 @@
-
 # SICAR X Android Versions
+
+## 0.0.6 (version code ?) - Release In progress
+- Cortes de caja - Correccion Folios
+- Clientes - agregar imagenes en android 13
+- Productos - Correccion al editar piezas de mayoreos
+- Ventas 
 
 ## 0.0.5 (version code 21) - Release 22 mar 13:23
 - Modo oscuro algunas mejoras
@@ -27,10 +32,11 @@
 - Agrupar Productos en el carrito
 - Cancelar ventas con diferentes monedas
 
+
 ## 0.0.2 (version code 16) 	-  Release 3 mar 8:43 
 
 - Permisos de Bluetooth para Xiaomi.
 - Arranque de inicio en Xiaomi.
 - Consultas ventas mejoras.
 - Accesos rápidos a ayuda.
-- Integración con correos de gmail.
+- Integración con correos de gmail.  
