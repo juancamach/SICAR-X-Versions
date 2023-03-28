@@ -4,6 +4,7 @@
 - Cortes de caja - Correccion Folios
 - Clientes - agregar imagenes en android 13
 - Productos - Correccion al editar piezas de mayoreos
+- Ventas - Correccion al agregar producto por sku
 
 ## 0.0.5 (version code 21) - Release 22 mar 13:23
 - Modo oscuro algunas mejoras
