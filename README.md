@@ -1,6 +1,6 @@
 # SICAR X Android Versions
 
-## 0.0.6 (version code 22) - Release 29 marzo In progress
+## 0.0.6 (version code 22) - Release 29 marzo 15:10
 - Cortes de caja - Corrección Folios
 - Clientes - agregar imagenes en android 13
 - Productos - Corrección al editar piezas de mayoreos
