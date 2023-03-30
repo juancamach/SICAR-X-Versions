@@ -1,5 +1,13 @@
 # SICAR X Android Versions
 
+## 0.0.8 (version code ?) - Release In progress
+- Ventas - Correcion al cerrar producto rapido 
+
+## 0.0.7 (version code 23) - Release 30 marzo In progress
+- Reportes - Filtros de clientes
+- Reportes - Mejoras modo oscuro Portrait
+- Producto - Correcion al editar costos
+
 ## 0.0.6 (version code 22) - Release 29 marzo 15:10
 - Cortes de caja - Corrección Folios
 - Clientes - agregar imagenes en android 13
