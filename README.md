@@ -2,6 +2,7 @@
 
 ## 0.0.8 (version code ?) - Release In progress
 - Ventas - Correcion al cerrar producto rapido 
+- Porducto - Correccion vista previa historial
 
 ## 0.0.7 (version code 23) - Release 31 marzo 9:19
 - Reportes - Filtros de clientes
