@@ -1,6 +1,6 @@
 # SICAR X Android Versions
 
-## 0.0.8 (version code 24) - Release 3 abril In progress
+## 0.0.8 (version code 24) - Release 3 abril 15:55
 - Ventas - Corrección al cerrar producto rápido 
 - Producto - Correccion vista previa historial
 
