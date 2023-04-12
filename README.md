@@ -1,5 +1,10 @@
 # SICAR X Android Versions
 
+## 0.0.9 (version code ?) - Release pending
+- Ventas - Mayoreos
+- Ventas - Mejoras movimientos de cajas modo oscuro
+- Empresa - Correccion empresas en otra moneda
+
 ## 0.0.8 (version code 24) - Release 3 abril 15:55
 - Ventas - Corrección al cerrar producto rápido 
 - Producto - Correccion vista previa historial
