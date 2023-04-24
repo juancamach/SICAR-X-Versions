@@ -1,5 +1,10 @@
 # SICAR X Android Versions
 
+## 0.0.10 (version code ?) - Release in progress
+- Consultas - Mejoras visuales
+- ventas - Mejoras visuales
+- Producto - Importador
+
 ## 0.0.9 (version code 25) - Released 12 abril 15:43
 - Ventas - Mayoreos
 - Ventas - Corrección precios de compra al agregar por sku
