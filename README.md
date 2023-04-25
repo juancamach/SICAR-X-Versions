@@ -2,8 +2,10 @@
 
 ## 0.0.10 (version code ?) - Release in progress
 - Consultas - Mejoras visuales
-- ventas - Mejoras visuales
+- Ventas - Mejoras visuales
 - Producto - Importador
+- Tickets - Impresion de logo de la empresa
+- Configuraciones - Configuracion de logo de la empresa para ticket
 
 ## 0.0.9 (version code 25) - Released 12 abril 15:43
 - Ventas - Mayoreos
