@@ -1,6 +1,6 @@
 # SICAR X Android Versions
 
-## 0.0.10 (version code 26) - Release in progress
+## 0.0.10 (version code 26) - Release in progress 27 abril
 - Consultas - Mejoras visuales
 - Ventas - Mejoras visuales
 - Producto - Información importador
