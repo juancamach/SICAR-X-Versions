@@ -1,11 +1,12 @@
 # SICAR X Android Versions
 
-## 0.0.10 (version code 26) - Release in progress 27 abril
+## 0.0.10 (version code 26) - Released 28 abril 09:19
 - Consultas - Mejoras visuales
 - Ventas - Mejoras visuales
 - Producto - Información importador
 - Tickets - Impresión de logo de la empresa
 - Configuraciones - Configuración de logo de la empresa para ticket
+
 
 ## 0.0.9 (version code 25) - Released 12 abril 15:43
 - Ventas - Mayoreos
