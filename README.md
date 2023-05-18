@@ -1,5 +1,16 @@
 # SICAR X Android Versions
 
+## 0.0.11 (version code 27) - Released 18 mayo 8:00
+- Productos - Búsquedas y guardados de claves
+- Login - Acceso con huella digital automático
+- General traducciones y ortografía
+- Ventas - Ventas en otras monedas
+- Ventas - Corrección decimales
+- Ventas - Correcciones en ventas a granel
+- Configuraciones - Etiquetadora USB
+- Productos/Ventas - Impresión de etiquetas
+- Consultas/Reportes - Mejoras red
+
 ## 0.0.10 (version code 26) - Released 28 abril 09:19
 - Consultas - Mejoras visuales
 - Ventas - Mejoras visuales
