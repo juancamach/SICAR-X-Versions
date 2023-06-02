@@ -1,5 +1,13 @@
 # SICAR X Android Versions
 
+## 0.0.12 (version code 29) - Released Junio 2 13:40
+
+- General - Mejoras de conexion
+- Cuentas - se permite crear cuentas desde la aplicacion
+- Ventas - Mejoras visuales y uso de los lectores de codigo de barras
+- Producto - Mejoras generales
+- General - Mejoras modo oscuro
+
 ## 0.0.11 (version code 27) - Released 18 mayo 8:00
 - Productos - Búsquedas y guardados de claves
 - Login - Acceso con huella digital automático
