@@ -1,5 +1,22 @@
 # SICAR X Android Versions
 
+## 0.0.15 (version code 32) working
+- General - Encuestas
+- Productos - Mejoras de rendimiento
+- Configuraciones - Corrección permisos de bluetooth
+- Configuraciones - Mejoras de reconocimiento de dispositivos USB
+
+## 0.0.14 (version code 31) Released junio 3 9:00
+- Ventas - Corrección desbloqueo de caja
+- Ventas - Corrección catálogo
+- Consultas - Corrección cancelaciones
+
+## 0.0.13 (version code 30) Released Junio 2 13:30 
+- Ventas - Desbloquear caja al vender
+- Producto - Mejoras carga de listas
+- Consultas - Corrección menú vista móvil
+- Cuentas - Mejoras generales
+
 ## 0.0.12 (version code 29) - Released Junio 2 13:40
 
 - General - Mejoras de conexion
