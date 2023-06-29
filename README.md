@@ -1,6 +1,13 @@
 # SICAR X Android Versions
 
-## 0.0.15 (version code 32) working
+## 0.0.16 (version code 34) 
+- Impresoras - Mejoras de etiquetas impresion de prueba
+- Producto - Corrección precios
+- Ventas - Corrección cambios de precio
+- Estadisticas - Nuevo módulo
+- Periféricos - Corrección básculas
+
+## 0.0.15 (version code 33) Relseased junio 13 9:00
 - General - Encuestas
 - Productos - Mejoras de rendimiento
 - Configuraciones - Corrección permisos de bluetooth
