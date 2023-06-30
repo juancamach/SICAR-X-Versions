@@ -1,6 +1,6 @@
 # SICAR X Android Versions
 
-## 0.0.16 (version code 34) 
+## 0.0.16 (version code 34) Released junio 29 17:00
 - Impresoras - Mejoras de etiquetas impresion de prueba
 - Producto - Corrección precios
 - Ventas - Corrección cambios de precio
