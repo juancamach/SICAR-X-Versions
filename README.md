@@ -7,7 +7,7 @@
 - Estadisticas - Nuevo módulo
 - Periféricos - Corrección básculas
 
-## 0.0.15 (version code 33) Relseased junio 13 9:00
+## 0.0.15 (version code 33) Released junio 13 9:00
 - General - Encuestas
 - Productos - Mejoras de rendimiento
 - Configuraciones - Corrección permisos de bluetooth
