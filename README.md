@@ -1,5 +1,13 @@
 # SICAR X Android Versions
 
+## 0.0.17 (version code 35) Released julio 5 
+- Ventas - Corrección búsquedas en móvil
+- Consultas/Reportes - Boton de menu visible
+- Consultas - Corrección de botón para cambiar vendedor en detalle de la venta
+- Inicio - Corrección cambio de cuenta
+- Se permiten hacer capturas de pantalla en diálogos
+- Roles - Mejoras permisos e iconos
+
 ## 0.0.16 (version code 34) Released junio 29 17:00
 - Impresoras - Mejoras de etiquetas impresion de prueba
 - Producto - Corrección precios
